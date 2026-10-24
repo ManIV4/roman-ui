@@ -7,7 +7,7 @@
 # Hi, I'm Roman IV Canlas
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
-I'm a 3rd-year CS student at Angeles University Foundation, passionate about
+I'm a 4rd-year CS student at Angeles University Foundation, passionate about
 learning new things, gaming, and of course sleeping.
 
 ---
